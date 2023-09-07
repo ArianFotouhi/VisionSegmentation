@@ -11,3 +11,7 @@ Update on Sep 2023: to use Mask RCNN, you may face the error "module 'numpy' has
 ```python
 pip uninstall numpy
 ```
+
+```python
+pip install numpy==1.20.0
+```
