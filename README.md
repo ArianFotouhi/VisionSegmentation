@@ -3,20 +3,18 @@
 Image Segmentation Results
 <div style="text-align:center;">
   
-  <img src="./asset/dog.jpg" alt="input image" width="600" height="250">
-  <img src="./asset/image_result1.jpg" alt="result" width="600" height="250">
-  <img src="./asset/image_result2.jpg" alt="result" height="250">
+  <img src="./asset/dog.jpg" alt="input image" width="400" height="200">
+  <img src="./asset/image_result1.jpg" alt="result" width="400" height="200">
+  <img src="./asset/image_result2.jpg" alt="result" height="200">
 
 </div>
-
+<hr>
 Video Segmentation Results (person segmentation)
 <div style="text-align:center;">
   
   <img src="./asset/video_result.gif" alt="video result">
-  
-
 </div>
-
+<hr>
 This repository discusses image and video segmentation. Basically, there are two categories of segmentation namely, instance segmentation and semantic segmentation.
 
 Semantic Segmentation:
