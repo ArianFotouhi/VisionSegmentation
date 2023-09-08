@@ -3,8 +3,8 @@
 Image Segmentation Results
 <div style="text-align:center;">
   
-  <img src="./asset/dog.jpg" alt="input image" width="400" height="200">
-  <img src="./asset/image_result1.jpg" alt="result" width="400" height="200">
+  <img src="./asset/dog.jpg" alt="input image"  height="200">
+  <img src="./asset/image_result1.jpg" alt="result"  height="200">
   <img src="./asset/image_result2.jpg" alt="result" height="200">
 
 </div>
