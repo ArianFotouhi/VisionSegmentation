@@ -5,7 +5,7 @@ Input Image || Detection result
   
   <img src="./asset/dog.jpg" alt="input image" width="600" height="300">
   <img src="./asset/image_result1.jpg" alt="result" width="600" height="300">
-  <img src="./asset/image_result2.jpg" alt="result" width="600" height="300">
+  <img src="./asset/image_result2.jpg" alt="result" height="300">
 
 </div>
 
