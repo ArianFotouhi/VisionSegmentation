@@ -1,5 +1,14 @@
 # VisionSegmentation
 
+Input Image || Detection result
+<div style="text-align:center;">
+  
+  <img src="./asset/dog.jpg" alt="input image" height="300">
+  <img src="./asset/image_result1.jpg" alt="result" height="300">
+  <img src="./asset/image_result2.jpg" alt="result" height="300">
+
+</div>
+
 This repository discusses image and video segmentation. Basically, there are two categories of segmentation namely, instance segmentation and semantic segmentation.
 
 Semantic Segmentation:
