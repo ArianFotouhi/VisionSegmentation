@@ -12,7 +12,7 @@ Image Segmentation Results
 Video Segmentation Results (person segmentation)
 <div style="text-align:center;">
   
-  <img src="./asset/video_result.gif" alt="video result" height="300">
+  <img src="./asset/video_result.gif" alt="video result" height="400">
 </div>
 <hr>
 This repository discusses image and video segmentation. Basically, there are two categories of segmentation namely, instance segmentation and semantic segmentation.
