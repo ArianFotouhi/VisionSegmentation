@@ -1,11 +1,19 @@
 # VisionSegmentation
 
-Input Image || Detection result
+Image Segmentation Results
 <div style="text-align:center;">
   
   <img src="./asset/dog.jpg" alt="input image" width="600" height="250">
   <img src="./asset/image_result1.jpg" alt="result" width="600" height="250">
   <img src="./asset/image_result2.jpg" alt="result" height="250">
+
+</div>
+
+Video Segmentation Results (person segmentation)
+<div style="text-align:center;">
+  
+  <img src="./asset/video_result.gif" alt="video result">
+  
 
 </div>
 
