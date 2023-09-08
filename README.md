@@ -32,7 +32,7 @@ Mask R-CNN is indeed a well-known model for instance segmentation, but there are
 
 <hr>
 NB A: to get the model .h5 file click on the link:
-[link](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5).
+[link](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5) .
 
 NB B (Sep 2023): to use Mask RCNN, based on your dependencies version, you may face the error "module 'numpy' has no attribute 'bool'" for line "results = network.detect([image], verbose=0)". To solve it simply uninstall the NumPy and install the older versions like below:
 
