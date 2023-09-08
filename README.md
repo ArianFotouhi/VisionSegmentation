@@ -31,8 +31,7 @@ This means that pixels belonging to different objects of the same category are t
 Mask R-CNN is indeed a well-known model for instance segmentation, but there are other approaches like YOLACT, Panoptic FPN, and SOLOv2 that also address this task effectively.
 
 <hr>
-NB A: to get the model .h5 file click on the link: [link](https://github.com/ArianFotouhi?tab=repositories)
-[link](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5) .
+NB A: to get the model .h5 file click on the <a href="https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5">link</a>.
 
 NB B (Sep 2023): to use Mask RCNN, based on your dependencies version, you may face the error "module 'numpy' has no attribute 'bool'" for line "results = network.detect([image], verbose=0)". To solve it simply uninstall the NumPy and install the older versions like below:
 
